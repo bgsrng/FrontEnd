@@ -1,0 +1,148 @@
+.border-all {
+  width: 1152px;
+  height: 700px;
+  background: #ffffff;
+}
+
+.coloritem {
+  font-weight: 300;
+  font-size: 36px;
+  color: #363a41;
+}
+
+.font {
+  font-family: inter, sans-serif;
+  color: black;
+}
+
+.border-coloritem {
+  position: absolute;
+  padding: 16px 32px;
+  color: black;
+  border-radius: 8px;
+  width: 415px;
+  height: 91px;
+  left: 578px;
+  top: 107px;
+  display: inline-block;
+}
+
+.textbold {
+  font-weight: 800;
+}
+
+.price {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 33px;
+  color: #363a41;
+}
+
+.border-price {
+  position: absolute;
+  padding: 16px 32px;
+  color: black;
+  border-radius: 8px;
+  width: 103px;
+  height: 31px;
+  left: 582px;
+  top: 229px;
+}
+
+.lorem {
+  font-size: 14px;
+  line-height: 19px;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.border-lorem {
+  position: absolute;
+  padding: 16px 32px;
+  color: black;
+  border-radius: 8px;
+  width: 346px;
+  height: 131px;
+  left: 582px;
+  top: 308px;
+}
+
+.size {
+  font-family: inter;
+  font-size: 12px;
+  line-height: 16px;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.medium {
+  font-family: inter;
+  font-size: 24px;
+  line-height: 33px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.border-size-medium {
+  position: absolute;
+  padding: 16px 32px;
+  width: 135px;
+  height: 37px;
+  left: 578px;
+  top: 452px;
+}
+
+.chart {
+  position: absolute;
+  font-family: inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.border-chart {
+  position: absolute;
+  width: 147px;
+  height: 48px;
+  left: 582px;
+  top: 561px;
+  background: #000000;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+}
+
+.back {
+  font-family: inter;
+  font-size: 12px;
+  color: #000000;
+}
+
+.border-back {
+  position: absolute;
+  width: 216px;
+  height: 51.54px;
+  left: 1200px;
+  top: 67px;
+}
+
+.cotton {
+  font-family: inter;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.right {
+  text-align: right;
+}
+.border-cotton {
+  position: absolute;
+  width: 88px;
+  height: 125px;
+  left: 1200px;
+  top: 500px;
+  text-align: right;
+}
