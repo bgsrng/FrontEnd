@@ -101,11 +101,15 @@
   text-align: center;
 }
 
+.cart-icon:hover {
+  cursor: pointer;
+}
+
 .border-chart {
   position: absolute;
   width: 147px;
   height: 48px;
-  left: 582px;
+  left: 610px;
   top: 561px;
   background: #000000;
   border: 1px solid #000000;
