@@ -1,28 +1,81 @@
+.box {
+  width: 1000px;
+  height: 300px;
+  padding-left: 500px;
+}
+
 .poto {
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  padding-top: 200px;
+  padding-top: 20px;
 }
 
 .poto img {
   width: 200px;
 }
 
-p {
+.poto p {
   font-size: 30px;
+  font-weight: bold;
+  color: white;
+  padding-top: 30px;
+  padding-left: 30px;
 }
 
-.pendidikan p {
+.poto h1 {
   font-size: 15px;
   font-weight: bold;
+  color: white;
+  padding-top: 10px;
+  padding-left: 50px;
 }
 
-.pengalamanKerja p {
+.poto h2 {
   font-size: 15px;
   font-weight: bold;
+  color: white;
+}
+
+.skill p {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+.skill h1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  padding-right: 90px;
+}
+
+.skill h2 {
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  padding-bottom: 10px;
+  padding-right: 80px;
+}
+
+p {
+  font-size: 15px;
+  color: white;
+}
+
+.pendidikan {
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 100px;
+  color: white;
+}
+
+.pengalamanKerja {
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 30px;
+  color: white;
 }
 
 h2 {
